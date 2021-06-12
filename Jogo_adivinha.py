@@ -8,6 +8,7 @@ play = input('Estou pensando em uma palavra, você consegue adivinhar o que é? 
 
 if play == 'n':
     print('Okay, fica pra próxima!')
+    break
 
 while play == 's':
     letra = input('Digite uma letra: ')
