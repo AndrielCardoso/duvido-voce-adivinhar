@@ -1,0 +1,1 @@
+Jogo desenvolvido para estudos em Python XD
